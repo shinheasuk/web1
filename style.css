@@ -1,0 +1,56 @@
+
+* {
+	padding : 0;
+	margin : 0;
+}
+
+section {
+	padding : 10px;
+
+/*	position: relative;*/
+}
+
+header {
+	padding-top : 20px;
+	width : 100%;
+}
+
+header h1 {
+	text-align : center;
+}
+
+nav {
+	width : 20%;
+	float : left;
+}
+
+section {
+	width : 80%;
+	float : left;
+}
+
+ ul li {
+ 	list-style-type: none;
+ 	/*border : 1px solid red;*/
+ }
+
+ .nav {
+ 	width : 30%;
+ 	float : left;
+ 	border : 1px solid #000;
+ 	display : inline-block;
+
+
+  }
+
+.contents {
+ 	width : 60%;
+ 	float : right;
+ 	border : 1px solid #282899;
+	display : inline-block;
+  }
+
+
+.range {
+	width : 100%;
+}
